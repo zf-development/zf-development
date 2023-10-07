@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS & Svelte**
 
-- ⚡ Fun fact [I a French Canadian loving Burgers](I a French Canadian loving Burgers)
+- ⚡ Fun fact **I a French Canadian loving Burgers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
